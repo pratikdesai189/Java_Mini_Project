@@ -1,1 +1,0 @@
-This codes are for Mini Project JAVA
